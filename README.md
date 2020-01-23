@@ -3,4 +3,4 @@ CECS 229: Discrete Structures with Computing Applications II
 
 Language(s): Python
 
-Professor: Aisha Chen
+Professor(s): Aisha Chen
